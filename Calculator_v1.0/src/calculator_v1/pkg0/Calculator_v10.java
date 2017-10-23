@@ -16,6 +16,7 @@ public class Calculator_v10 {
      */
     public static void main(String[] args) {
         System.out.println("hola pendejo");
+        System.err.println("que pasa guasin");
     }
     
 }
