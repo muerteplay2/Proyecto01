@@ -15,7 +15,7 @@ public class Calculator_v10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Sistem.out.println("hola pendejo");
     }
     
 }
