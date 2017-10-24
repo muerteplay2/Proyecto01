@@ -15,8 +15,8 @@ public class Calculator_v10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola pendejo");
-        System.err.println("que pasa guasin");
+        Ventana v = new Ventana();
+        v.setVisible(true);
     }
     
 }
